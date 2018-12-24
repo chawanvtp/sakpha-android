@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sakpha</string>
+    <string-array name="status_list">
+        <item>InProcess</item>
+        <item>Ready</item>
+        <item>Complete</item>
+    </string-array>
+</resources>
