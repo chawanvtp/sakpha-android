@@ -9,9 +9,9 @@ Animation Proposal: https://www.powtoon.com/online-presentation/fqHouJIRMUV/?mod
 ##	Primary functions
 -	Laundry Store (Owner/Operator) :
 	```
-		-	Display order's information.
+• Display order's information.
     
-    -	Updating Status 
+• Updating Status 
     
            InProgress: taking an order into washing processes.
            
