@@ -9,16 +9,16 @@ Animation Proposal: https://www.powtoon.com/online-presentation/fqHouJIRMUV/?mod
 ##	Primary functions
 -	Laundry Store (Owner/Operator) :
 	```
-• Display order's information.
+	• Display order's information.
     
-• Updating Status 
+	• Updating Status 
     
-           InProgress: taking an order into washing processes.
+           	InProgress: taking an order into washing processes.
            
-           Ready: the order is ready to be picked by customer.
+           	Ready: the order is ready to be picked by customer.
                 * for this status there will be a trigger function to send an e-mail to the customer automatically.
            
-           Complete: customer already completed payment and took the stuffs back.
+           	Complete: customer already completed payment and took the stuffs back.
 	```
 
 ## Built With
